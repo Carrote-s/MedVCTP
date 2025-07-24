@@ -681,7 +681,7 @@ class VisualCOT_AOKVQA:
             return correction
         else:
             return thought
-
+#this is where the prompt for LLMAttend is generated
     def interactive(self, key, attr_list):
         context_key_list, rel_obj_list = self.get_interactive_context_keys(key, \
                                                                            self.args.similarity_metric,
