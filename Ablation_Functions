@@ -1,3 +1,7 @@
+import string
+
+def normalize(ans):
+    return ans.strip().lower().strip(string.punctuation)
 def med_vctp1(image_path, question, examples5, gCaption, rCaption = None):
     # Define messages
     message1 = f"""This is the medical question at hand about a specific image: {question}. Here is a global caption describing the entire image: {gCaption}. 
