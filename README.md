@@ -1,2 +1,2 @@
-# VCTP-with-Swin-Transformer
+#MedVCTP
 Coding our VCTP models
