@@ -8,3 +8,12 @@ Code for our paper *MedVCTP: Improving Accuracy and Explainability in Medical Vi
 
 * Voxel51 SLAKE dataset
 * To download the dataset, run the **Load_SLAKE.py** script.
+
+# **Prepare captions**
+
+* m
+
+# **Run Experiments**
+
+* Run_MedVCTP.py for MedVCTP
+* Run_Ablation.py for Ablation study
