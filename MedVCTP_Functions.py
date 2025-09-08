@@ -1,7 +1,7 @@
 import string
-
 def normalize(ans):
     return ans.strip().lower().strip(string.punctuation)
+    
 def med_vctp(image_path, question, examples5, gCaption, rCaption = None):
     # Define messages
     message1 = f"""This is the medical question at hand about a specific image: {question}. Here is a global caption describing the entire image: {gCaption}. 
@@ -14,7 +14,6 @@ def med_vctp(image_path, question, examples5, gCaption, rCaption = None):
     {"role": "system", "content": "You are a medical visual reasoning assistant. Base your reasoning on provided medical image context and stay visually grounded and medically accurate."},
     {"role": "user", "content": message1}
     ]
-
     # Generate concepts & information
     responseConcepts = run_llama(messages1, max_new_tokens = 400)
     #print('1' + responseConcepts)
@@ -38,10 +37,8 @@ def med_vctp(image_path, question, examples5, gCaption, rCaption = None):
         parts = conclusion.split('###')
         rationale = parts[0].strip()
         answer = parts[-1].strip()  # last part should be the yes/no
-
     else:
-      rationale, answer = conclusion, 'unknown'
-        
+      rationale, answer = conclusion, 'unknown'   
     refined_rationale = rationaleCheck(question, responseConcepts, image_path, rationale, examples5)
     #print('3' + refined_rationale)
     refined_answer = run_llama(messages = [
@@ -51,18 +48,14 @@ def med_vctp(image_path, question, examples5, gCaption, rCaption = None):
     Use the rationale to give a yes/no answer to the question. Output should be one word."""}
     ])
     #print('4' + refined_answer)
-
     return refined_rationale, refined_answer
 
 def rationaleCheck(question, information, image_path, rationale, examples, maxIter=3, threshold_method='manual', manual_thresh=30):
     openedImage = Image.open(image_path)
-    
     modRationale = rationale
     best_rationale = modRationale
     best_score = -1.0  # initialize as very low
-    
     for x in range(maxIter):
-
         improvMsg = [
             {"role": "system", "content": "You are a medical visual reasoning assistant. Base your reasoning on provided medical image context and stay visually grounded and medically accurate."},
             {"role": "user", "content": f"""Review this rationale: {modRationale} you generated for the question: {question}. 
@@ -75,27 +68,21 @@ Again, here are the 5 different reasoning examples consisting of an answer to th
 Make sure the rationales you generate for the given question at hand that use the information base provided earlier are 1-2 sentences maximum, written so that someone can use it to immediately answer the question"""
             }
         ]
-
         accepted, rejected, scores, thresh = confirm_module.confirm(
             openedImage, [modRationale], threshold_method, top_pct=0.5, manual_thresh=manual_thresh
         )
-
         # unwrap single-value tensor into float
         if isinstance(scores, torch.Tensor):
             current_score = float(scores.item())
         else:
             current_score = float(scores)
-
         # Track the highest scoring rationale
         if current_score > best_score:
             best_score = current_score
             best_rationale = modRationale
-        
         if accepted:
             return modRationale
         else:
             modRationale = run_llama(improvMsg)
-
     # Fallback: if no rationale passed the threshold, return the one with highest score
     return best_rationale
-
