@@ -4,11 +4,11 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # --- Load LLaMA
-llm_model_name = "meta-llama/Llama-3.1-8B-Instruct"  # or your variant
+llm_model_name = "meta-llama/Llama-3.1-8B-Instruct"  #or your variant
 llm_tokenizer = AutoTokenizer.from_pretrained(llm_model_name)
 llm_model = AutoModelForCausalLM.from_pretrained(
     llm_model_name,
-    dtype=torch.bfloat16  # optional, if GPU supports
+    dtype=torch.bfloat16  #optional, if GPU supports
 )
 llm_model.eval()
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -29,4 +29,3 @@ def run_llama(messages, max_new_tokens=300):
     return llm_tokenizer.decode(
         outputs[0][inputs["input_ids"].shape[-1]:], skip_special_tokens=True
     )
-
