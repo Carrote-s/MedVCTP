@@ -7,4 +7,4 @@ Code for our paper *MedVCTP: Improving Accuracy and Explainability in Medical Vi
 # **Preprocess dataset**
 
 * Voxel51 SLAKE dataset
-* For generating regional and global captions, run the
+* To download the dataset, run the **Load_SLAKE.py** script.
