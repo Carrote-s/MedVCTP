@@ -3,13 +3,10 @@ import json
 # Load JSON files
 with open("close_bbox.json") as f:
     close_bbox = json.load(f)
-
 with open("raw_images.json") as f:
     raw_images = json.load(f)
-
 with open("gCaptions_1.json") as f:
     gCaptions = json.load(f)
-
 with open("rCaptions_1.json") as f:
     rCaptions = json.load(f)
 
@@ -30,24 +27,18 @@ for entry in close_bbox:
     image_id = entry['image_id']
     question = entry['question']
     answer = entry.get('answer', None)  # optional
-
     # Get image path
     image_path = image_id_to_path.get(image_id, None)
-    
     # Get global caption
     gCaption = image_id_to_gcaption.get(image_id, "")
-    
     # Get all regional captions
     rCaptions_list = image_id_to_rcaptions.get(image_id, [])
-    
     # Combine regional captions into one string
     rCaption_str = ""
     for rc in rCaptions_list:
         rCaption_str += f"Label: {rc['label']}, Caption: {rc['caption'].strip()}. "
-
     # Strip final whitespace
     rCaption_str = rCaption_str.strip()
-
     # Now you have all components for the VCTP function
     rationaleOut, answerOut = med_vctp1(image_path, question, examples5, gCaption, rCaption_str)
     if normalize(answerOut) == answer.lower():
