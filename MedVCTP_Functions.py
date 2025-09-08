@@ -1,4 +1,5 @@
 import string
+
 def normalize(ans):
     return ans.strip().lower().strip(string.punctuation)
     
