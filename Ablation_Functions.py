@@ -2,6 +2,7 @@ import string
 
 def normalize(ans):
     return ans.strip().lower().strip(string.punctuation)
+    
 def med_vctp1(image_path, question, examples5, gCaption, rCaption = None):
     # Define messages
     message1 = f"""This is the medical question at hand about a specific image: {question}. Here is a global caption describing the entire image: {gCaption}. 
@@ -14,7 +15,6 @@ def med_vctp1(image_path, question, examples5, gCaption, rCaption = None):
     {"role": "system", "content": "You are a medical visual reasoning assistant. Base your reasoning on provided medical image context and stay visually grounded and medically accurate."},
     {"role": "user", "content": message1}
     ]
-
     # Generate concepts & information
     responseConcepts = run_llama(messages1, max_new_tokens = 400)
     #print('1' + responseConcepts)
@@ -36,13 +36,12 @@ def med_vctp1(image_path, question, examples5, gCaption, rCaption = None):
     rationale, answer = parse_vctp_output(conclusion)
     #print('2' + conclusion)
     return rationale, answer
+    
 def parse_vctp_output(conclusion):
     # Lowercase for normalization
     conclusion = conclusion.lower().strip()
-    
     # Remove leading numbers like "2" or "2###"
     conclusion = conclusion.lstrip("0123456789. ").replace("2###", "").strip()
-    
     # Extract yes/no
     if conclusion.startswith("yes"):
         answer = "yes"
