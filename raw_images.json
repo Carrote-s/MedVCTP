@@ -1,0 +1,2570 @@
+[
+  {
+    "image_id": "6830a40b7a3316c43716ba5b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab132.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba5c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab483.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba5d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab311.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba5e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab29.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba5f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab177.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba60",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab313.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba61",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab466.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba62",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab575.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba63",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab151.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba64",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab431.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba65",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab460.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba66",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab489.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba67",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab356.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba68",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab481.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba69",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab214.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba6a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab534.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba6b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab314.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba6c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab447.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba6d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab360.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba6e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab490.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba6f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab525.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba70",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab542.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba71",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab203.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba72",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab173.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba73",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab461.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba74",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab55.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba75",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab450.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba76",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab564.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba77",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab516.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba78",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab42.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba79",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab34.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba7a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab259.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba7b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab24.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba7c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab361.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba7d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab395.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba7e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab588.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba7f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab111.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba80",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab598.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba81",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab26.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba82",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab640.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba83",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab592.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba84",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab623.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba85",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab339.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba86",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab570.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba87",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab480.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba88",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab290.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba89",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab7.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba8a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab226.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba8b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab359.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba8c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab478.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba8d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab318.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba8e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab455.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba8f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab256.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba90",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab247.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba91",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab267.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba92",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab568.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba93",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab582.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba94",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab190.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba95",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab210.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba96",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab496.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba97",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab413.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba98",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab2.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba99",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab195.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba9a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab174.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba9b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab71.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba9c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab328.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba9d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab437.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba9e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab94.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716ba9f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab417.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baa0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab425.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baa1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab110.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baa2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab80.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baa3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab123.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baa4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab136.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baa5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab482.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baa6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab498.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baa7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab284.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baa8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab583.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baa9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab205.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baaa",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab410.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baab",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab358.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baac",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab202.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baad",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab261.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baae",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab115.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baaf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab546.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bab0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab113.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bab1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab346.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bab2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab547.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bab3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab632.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bab4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab637.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bab5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab476.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bab6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab442.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bab7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab325.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bab8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab393.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bab9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab567.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baba",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab91.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716babb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab485.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716babc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab64.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716babd",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab102.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716babe",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab301.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716babf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab345.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bac0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab143.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bac1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab233.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bac2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab165.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bac3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab334.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bac4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab230.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bac5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab133.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bac6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab172.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bac7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab104.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bac8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab141.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bac9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab162.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baca",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab422.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bacb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab627.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bacc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab142.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bacd",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab373.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bace",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab541.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bacf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab221.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bad0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab235.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bad1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab62.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bad2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab68.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bad3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab302.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bad4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab299.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bad5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab144.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bad6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab291.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bad7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab324.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bad8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab436.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bad9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab116.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bada",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab554.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716badb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab528.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716badc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab51.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716badd",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab641.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bade",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab27.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716badf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab197.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bae0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab88.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bae1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab402.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bae2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab527.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bae3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab599.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bae4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab182.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bae5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab486.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bae6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab271.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bae7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab521.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bae8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab343.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bae9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab366.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baea",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab82.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baeb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab176.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baec",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab223.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baed",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab365.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baee",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab374.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baef",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab112.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baf0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab601.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baf1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab77.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baf2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab285.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baf3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab215.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baf4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab336.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baf5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab499.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baf6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab515.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baf7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab44.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baf8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab624.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baf9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab538.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bafa",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab354.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bafb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab549.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bafc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab559.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bafd",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab264.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bafe",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab237.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716baff",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab287.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb00",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab45.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb01",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab148.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb02",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab276.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb03",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab119.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb04",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab122.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb05",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab75.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb06",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab139.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb07",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab125.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb08",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab388.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb09",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab424.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb0a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab472.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb0b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab310.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb0c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab622.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb0d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab620.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb0e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab150.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb0f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab309.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb10",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab344.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb11",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab47.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb12",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab409.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb13",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab43.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb14",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab529.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb15",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab439.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb16",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab335.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb17",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab180.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb18",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab427.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb19",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab488.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb1a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab607.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb1b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab638.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb1c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab0.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb1d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab48.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb1e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab194.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb1f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab306.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb20",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab585.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb21",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab639.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb22",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab161.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb23",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab396.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb24",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab508.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb25",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab370.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb26",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab49.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb27",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab414.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb28",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab405.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb29",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab452.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb2a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab158.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb2b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab621.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb2c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab160.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb2d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab562.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb2e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab591.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb2f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab441.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb30",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab392.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb31",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab11.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb32",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab320.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb33",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab430.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb34",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab53.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb35",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab83.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb36",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab491.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb37",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab196.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb38",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab454.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb39",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab270.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb3a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab566.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb3b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab249.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb3c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab331.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb3d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab248.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb3e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab435.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb3f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab269.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb40",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab511.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb41",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab317.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb42",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab635.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb43",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab581.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb44",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab385.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb45",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab85.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb46",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab16.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb47",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab412.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb48",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab573.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb49",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab224.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb4a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab201.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb4b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab207.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb4c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab14.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb4d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab295.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb4e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab426.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb4f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab408.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb50",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab145.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb51",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab501.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb52",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab200.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb53",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab316.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb54",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab36.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb55",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab227.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb56",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab459.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb57",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab419.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb58",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab633.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb59",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab129.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb5a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab31.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb5b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab477.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb5c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab121.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb5d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab509.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb5e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab244.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb5f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab189.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb60",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab37.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb61",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab192.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb62",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab590.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb63",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab519.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb64",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab448.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb65",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab404.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb66",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab428.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb67",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab329.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb68",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab381.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb69",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab260.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb6a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab372.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb6b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab286.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb6c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab184.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb6d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab322.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb6e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab50.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb6f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab552.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb70",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab255.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb71",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab225.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb72",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab18.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb73",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab98.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb74",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab362.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb75",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab468.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb76",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab253.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb77",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab398.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb78",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab90.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb79",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab8.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb7a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab258.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb7b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab239.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb7c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab555.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb7d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab15.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb7e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab3.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb7f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab30.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb80",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab238.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb81",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab357.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb82",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab505.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb83",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab330.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb84",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab106.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb85",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab73.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb86",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab126.jpg"
+  },
+  {
+    "image_id": "6830a40b7a3316c43716bb87",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab539.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb88",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab513.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb89",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab193.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb8a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab181.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb8b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab137.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb8c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab294.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb8d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab108.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb8e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab13.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb8f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab128.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb90",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab6.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb91",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab134.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb92",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab377.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb93",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab338.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb94",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab560.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb95",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab636.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb96",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab363.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb97",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab576.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb98",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab332.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb99",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab222.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb9a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab289.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb9b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab558.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb9c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab240.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb9d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab518.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb9e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab23.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bb9f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab440.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bba0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab445.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bba1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab433.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bba2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab390.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bba3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab451.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bba4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab548.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bba5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab407.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bba6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab312.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bba7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab40.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bba8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab520.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bba9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab379.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbaa",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab350.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbab",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab471.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbac",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab556.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbad",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab634.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbae",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab211.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbaf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab517.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbb0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab153.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbb1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab551.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbb2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab178.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbb3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab610.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbb4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab411.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbb5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab152.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbb6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab21.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbb7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab510.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbb8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab536.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbb9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab86.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbba",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab212.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbbb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab327.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbbc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab191.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbbd",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab319.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbbe",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab367.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbbf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab444.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbc0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab594.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbc1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab1.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbc2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab35.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbc3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab579.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbc4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab105.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbc5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab543.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbc6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab19.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbc7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab57.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbc8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab166.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbc9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab163.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbca",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab341.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbcb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab198.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbcc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab65.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbcd",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab530.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbce",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab265.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbcf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab602.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbd0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab103.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbd1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab245.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbd2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab333.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbd3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab41.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbd4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab495.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbd5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab171.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbd6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab92.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbd7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab186.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbd8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab522.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbd9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab217.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbda",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab231.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbdb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab611.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbdc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab12.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbdd",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab571.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbde",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab463.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbdf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab384.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbe0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab296.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbe1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab462.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbe2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab79.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbe3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab304.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbe4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab164.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbe5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab608.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbe6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab188.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbe7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab69.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbe8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab523.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbe9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab469.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbea",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab72.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbeb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab596.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbec",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab114.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbed",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab4.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbee",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab220.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbef",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab351.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbf0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab262.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbf1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab537.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbf2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab492.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbf3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab20.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbf4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab561.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbf5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab397.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbf6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab626.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbf7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab213.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbf8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab578.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbf9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab587.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbfa",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab465.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbfb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab615.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbfc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab475.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbfd",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab168.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbfe",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab288.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bbff",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab236.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc00",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab78.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc01",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab613.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc02",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab149.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc03",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab218.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc04",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab251.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc05",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab418.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc06",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab368.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc07",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab95.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc08",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab216.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc09",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab550.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc0a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab348.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc0b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab124.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc0c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab17.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc0d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab349.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc0e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab553.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc0f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab493.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc10",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab274.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc11",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab586.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc12",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab533.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc13",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab429.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc14",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab281.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc15",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab502.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc16",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab464.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc17",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab87.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc18",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab275.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc19",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab364.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc1a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab421.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc1b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab605.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc1c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab630.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc1d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab280.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc1e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab352.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc1f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab292.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc20",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab305.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc21",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab614.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc22",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab593.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc23",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab420.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc24",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab603.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc25",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab97.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc26",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab266.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc27",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab406.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc28",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab140.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc29",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab580.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc2a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab375.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc2b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab156.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc2c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab321.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc2d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab619.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc2e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab456.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc2f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab209.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc30",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab535.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc31",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab208.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc32",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab67.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc33",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab46.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc34",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab303.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc35",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab432.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc36",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab228.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc37",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab604.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc38",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab401.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc39",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab446.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc3a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab300.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc3b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab268.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc3c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab347.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc3d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab84.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc3e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab138.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc3f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab175.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc40",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab574.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc41",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab383.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc42",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab415.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc43",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab63.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc44",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab597.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc45",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab443.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc46",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab109.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc47",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab403.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc48",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab503.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc49",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab155.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc4a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab282.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc4b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab146.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc4c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab283.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc4d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab179.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc4e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab242.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc4f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab391.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc50",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab187.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc51",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab107.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc52",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab199.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc53",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab514.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc54",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab531.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc55",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab467.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc56",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab563.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc57",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab157.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc58",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab99.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc59",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab438.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc5a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab423.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc5b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab589.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc5c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab399.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc5d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab246.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc5e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab135.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc5f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab252.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc60",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab93.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc61",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab279.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc62",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab58.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc63",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab5.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc64",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab185.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc65",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab342.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc66",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab380.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc67",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab293.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc68",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab131.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc69",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab52.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc6a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab100.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc6b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab263.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc6c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab449.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc6d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab504.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc6e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab572.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc6f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab376.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc70",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab526.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc71",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab400.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc72",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab315.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc73",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab33.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc74",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab297.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc75",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab457.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc76",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab154.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc77",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab308.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc78",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab272.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc79",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab628.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc7a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab76.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc7b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab569.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc7c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab229.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc7d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab59.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc7e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab89.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc7f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab234.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc80",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab147.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc81",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab453.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc82",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab254.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc83",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab298.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc84",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab369.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc85",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab631.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc86",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab584.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc87",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab219.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc88",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab353.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc89",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab206.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc8a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab600.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc8b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab28.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc8c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab101.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc8d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab204.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc8e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab479.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc8f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab22.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc90",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab170.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc91",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab458.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc92",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab32.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc93",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab618.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc94",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab326.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc95",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab473.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc96",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab474.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc97",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab61.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc98",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab70.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc99",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab532.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc9a",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab167.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc9b",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab60.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc9c",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab577.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc9d",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab506.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc9e",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab250.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bc9f",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab120.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bca0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab25.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bca1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab389.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bca2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab470.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bca3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab557.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bca4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab232.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bca5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab39.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bca6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab617.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bca7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab340.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bca8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab606.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bca9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab183.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcaa",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab616.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcab",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab130.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcac",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab434.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcad",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab159.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcae",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab355.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcaf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab9.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcb0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab544.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcb1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab386.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcb2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab512.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcb3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab118.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcb4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab612.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcb5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab323.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcb6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab10.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcb7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab540.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcb8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab371.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcb9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab273.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcba",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab507.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcbb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab96.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcbc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab241.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcbd",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab56.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcbe",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab378.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcbf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab257.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcc0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab277.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcc1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab117.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcc2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab625.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcc3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab416.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcc4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab387.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcc5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab278.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcc6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab629.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcc7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab545.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcc8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab500.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcc9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab565.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcca",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab169.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bccb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab307.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bccc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab487.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bccd",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab243.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcce",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab337.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bccf",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab595.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcd0",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab524.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcd1",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab394.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcd2",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab54.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcd3",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab484.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcd4",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab81.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcd5",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab38.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcd6",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab382.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcd7",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab66.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcd8",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab74.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcd9",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab494.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcda",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab497.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcdb",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab127.jpg"
+  },
+  {
+    "image_id": "6830a40c7a3316c43716bcdc",
+    "image_path": "/root/fiftyone/huggingface/hub/Voxel51/SLAKE/data/source_xmlab609.jpg"
+  }
+]
