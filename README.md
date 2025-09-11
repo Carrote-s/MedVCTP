@@ -17,7 +17,10 @@ Code for our paper *MedVCTP: Improving Accuracy and Explainability in Medical Vi
 * The main step after loading the SLAKE dataset is to load LLama 3.1 and BioMedCLIP. It is recommended to load in LLama 3.1 first, and then load BioMedCLIP later. You can use the respective code-files provided. Keep in mind that if you are running the ablation, only LLama 3.1 is needed. 
 * Once the models are fully loaded, use the function files depending on the experiment you want to run. Make sure that the functions utilize the few shot examples provided in the repository files. We have provided the specific locations on where the FewShotExamples will be loaded, named examples5 in the functions.
 * When the functions and the models are fully loaded in and functional, it is time to iterate through the dataset and cross-check outputs to attain accuracy. We use the code provided, starting with run and then ending with the respective desired experiment.
-* The run functions may need to be slightly modified depending on the format of the SLAKE files you input, but to mitigate this, we provide the files ourselves in the repository. 
+* The run functions may need to be slightly modified depending on the format of the SLAKE files you input, but to mitigate this, we provide the files ourselves in the repository.
+* After all functions are loaded, the code should successfully run. If accuracy seems to be abnormally low, check that you have utilized the normalize function in the function files. This function is responsible for removing punctuation and capital letters when checking answers for accuracy. Also make sure that the right files are used, and that the code aligns with such files.
+* For extra support, we have provided the entire MedVCTP code to help users figure out any gaps between our implementation and their implementation. It can help with any questions you have about implementation.
+
 
 # **Run Experiments**
 
