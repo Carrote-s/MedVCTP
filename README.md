@@ -26,3 +26,4 @@ Code for our paper *MedVCTP: Improving Accuracy and Explainability in Medical Vi
 
 * Run_MedVCTP.py for MedVCTP
 * Run_Ablation.py for Ablation study
+* MedVCTP.py or MedVCTP.ipynb for all functions
