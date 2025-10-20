@@ -1,3 +1,8 @@
+!pip install huggingface_hub
+!pip install transformers
+!pip install accelerate
+!pip install torch
+!pip install fiftyone
 with open("raw_images_with_bbox_new.json", "r") as f:
     rawBBImages = json.load(f)
 
