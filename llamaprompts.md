@@ -27,4 +27,4 @@ Make sure that you strictly utilize information directly from the information ba
 Again, here are the 5 different reasoning examples consisting of an answer to the question and a rationale quickly explaining why the answer was chosen and is correct:
 {examples}
 **Do not use any factual information from these examples; rely solely on the summary provided.**
-Make sure the rationales you generate for the given question at hand that use the information base provided earlier are 1-2 sentences maximum, written so that someone can use it to immediately answer the question
+Make sure the singular rationale you generate for the given question at hand that use the information base provided earlier are 1-2 sentences maximum, written so that someone can use it to immediately answer the question
