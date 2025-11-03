@@ -27,3 +27,8 @@ Code for our paper *MedVCTP: Improving Accuracy and Explainability in Medical Vi
 * Run_MedVCTP.py for MedVCTP
 * Run_Ablation.py for Ablation study
 * MedVCTP.py or MedVCTP.ipynb for all main code, doesn't include medgemma configurations and computations
+
+
+** Voxel51 SLAKE dataset **
+* We additionally run our pipeline on VQA - RAD, which doesn't provide any bounding boxes. Because kaggle's version is the only version that has seperate image IDs to index images easier, we download it into a google drive, and mount google drive onto jupyter notebook using an API.
+* We load all images directly into the notebook for usage, and generate and properly index a caption for every single unique image for the close ended questions which is 294 out of 315 images. The specific prompting details and how we configured and used MedGemma for VQARAD is located in VQARAD.ipynb. 
