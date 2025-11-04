@@ -20,7 +20,7 @@ Code for our paper *MedVCTP: Improving Accuracy and Explainability in Medical Vi
 * The run functions may need to be slightly modified depending on the format of the SLAKE files you input, but to mitigate this, we provide the files ourselves in the repository.
 * After all functions are loaded, the code should successfully run. If accuracy seems to be abnormally low, check that you have utilized the normalize function in the function files. This function is responsible for removing punctuation and capital letters when checking answers for accuracy. Also make sure that the right files are used, and that the code aligns with such files.
 * For extra support, we have provided the entire MedVCTP code to help users figure out any gaps between our implementation and their implementation. It can help with any questions you have about implementation.
-
+* A quick heads up: In the future, biomedclip and llama 3.1 may have compatibility issues regarding the transformers module. At the time we ran this code and extracted results, the MedVCTP.ipynb worked completely fine, we simply downgraded the transformer packages after loading in llama 3.1 for loading in biomedclip, as biomedclip required transformers version 4.35.2 whilst llama 3.1 8b required transformers 4.43 and onwards. The code was run in the beginning of September 2025, so we were using an appropriate transformer module version then. If incompatibility is persistent when trying downgrading, create seperate environments for both models, and potentially could use persistent processes by putting both models in its own long lived environment to help runtime, just a suggestion. There are other options available. 
 
 # **Run Experiments**
 
