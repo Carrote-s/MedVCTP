@@ -30,4 +30,7 @@ Codebase for our paper *MedVCTP: Improving Accuracy and Explainability in Medica
 
 # VQA-RAD
 * We additionally run our pipeline on VQA-RAD, which doesn't provide any bounding boxes. Because Kaggle's version is the only version that has separate image IDs to index images easier, we download it into a Google Drive, and mount Google Drive onto Jupyter Notebook using an API.
-* We load all images directly into the notebook for usage, and generate and properly index a caption for every single unique image for the close ended questions which is 294 out of 315 images. The specific prompting details and how we configured and used MedGemma for VQA-RAD is located in VQARAD.ipynb. 
+* We load all images directly into the notebook for usage, and generate and properly index a caption for every single unique image for the close ended questions which is 294 out of 315 images. The specific prompting details and how we configured and used MedGemma for VQA-RAD is located in VQARAD.ipynb.
+
+# UPDATE
+As of now, the VQA RAD run was insuccessful with the given time frame. It is still possible, and could be a future dataset added. 
