@@ -1,4 +1,4 @@
-Code for our paper *MedVCTP: Improving Accuracy and Explainability in Medical Visual Reasoning* 
+Codebase for our paper *MedVCTP: Improving Accuracy and Explainability in Medical Visual Reasoning* 
 
 # **Overall Framework**
 
