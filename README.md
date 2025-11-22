@@ -2,7 +2,8 @@ Codebase for our paper *MedVCTP: Improving Accuracy and Explainability in Medica
 
 # **Overall Framework**
 
-<img width="719" height="480" alt="4cf577feaa13c90d0bcfff677a8b85a722377e1a" src="https://github.com/user-attachments/assets/5b6fe8f8-bdfa-4a56-9b3f-d4ae650de71c" />
+<img width="612" height="450" alt="image_720" src="https://github.com/user-attachments/assets/a200462b-faca-4935-8729-32988f649dd9" />
+<!-- <img width="719" height="480" alt="4cf577feaa13c90d0bcfff677a8b85a722377e1a" src="https://github.com/user-attachments/assets/5b6fe8f8-bdfa-4a56-9b3f-d4ae650de71c" />  -->
 
 # **Preprocess dataset**
 
@@ -33,4 +34,4 @@ Codebase for our paper *MedVCTP: Improving Accuracy and Explainability in Medica
 * We load all images directly into the notebook for usage, and generate and properly index a caption for every single unique image for the close ended questions which is 294 out of 315 images. The specific prompting details and how we configured and used MedGemma for VQA-RAD is located in VQARAD.ipynb.
 
 # UPDATE
-As of now, the VQA RAD run was insuccessful with the given time frame. It is still possible, and could be a future dataset added. 
+As of now, the VQA-RAD run was unsuccessful with the given time frame. It is still possible, and could be a future dataset added. 
